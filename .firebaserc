@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-7429d": {
+      "hosting": {
+        "AppIngresoEgreso": [
+          "ingreso-egreso-app-7429d"
+        ]
+      }
+    }
+  }
+}
